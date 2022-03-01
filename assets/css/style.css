@@ -389,6 +389,8 @@ footer h2, footer div {
   
 .contact-info iframe{
     flex: 1 100%;
+    width: 300px;
+    height: 350px;
 }
 }
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
@@ -430,7 +432,7 @@ footer h2, footer div {
     }
     
     .section-title {
-        width: 95%;
+        width: 100%;
     }
     
     .intro p {

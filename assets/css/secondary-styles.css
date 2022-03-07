@@ -9,9 +9,10 @@
     color: #fce138;
     border-bottom: 4px solid #fce138;
     padding: 0 80px 15px 80px;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 42;
     font-style: italic;
+    display: inline-block;
 }
 
 .hero h2 {
